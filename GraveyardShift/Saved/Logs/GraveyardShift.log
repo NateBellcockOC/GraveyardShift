@@ -995,3 +995,13 @@ Recommended: 30.0.101.1340
 [2022.10.19-19.29.28:252][133]LogFileHelpers: No new changes to save!
 [2022.10.19-19.29.28:274][133]AssetCheck: New page: Asset Save: VRTemplateMap
 [2022.10.19-19.29.28:274][133]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.10.19-19.30.35:829][455]LogDerivedDataCache: C:/Users/devif/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.073 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.19-19.34.16:516][590]LogViewport: Scene viewport resized to 1526x825, mode Windowed.
+[2022.10.19-19.35.38:595][306]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.19-19.36.01:643][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Menu" FILE="../../../../devif/OneDrive/Documents/GitHub/GraveyardShift/GraveyardShift/Content/VRTemplate/Blueprints/Menu.uasset" SILENT=true
+[2022.10.19-19.36.01:693][654]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Menu
+[2022.10.19-19.36.01:694][654]LogSavePackage: Moving '../../../../devif/OneDrive/Documents/GitHub/GraveyardShift/GraveyardShift/Saved/Menu539A0D1C4C509D22C89FCB852C0C2FBB.tmp' to '../../../../devif/OneDrive/Documents/GitHub/GraveyardShift/GraveyardShift/Content/VRTemplate/Blueprints/Menu.uasset'
+[2022.10.19-19.36.01:718][654]AssetCheck: New page: Asset Save: Menu
+[2022.10.19-19.36.01:718][654]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Menu.Menu
+[2022.10.19-19.36.03:292][740]BlueprintLog: New page: Compile Menu
+[2022.10.19-19.36.03:421][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
